@@ -1,0 +1,17 @@
+.navbar{
+    background-color: #7adad0 !important;
+    border-bottom: solid #cbf3f0;
+    border-width: 10px ;
+    color: #edf2fb;
+}
+.NavBarItems{
+    text-align: right;
+}
+img{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+h3{
+    font-family: cursive;
+    font-weight: bold;
+}

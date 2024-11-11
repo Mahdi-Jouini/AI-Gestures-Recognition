@@ -1,0 +1,41 @@
+/**/
+
+/**/
+
+.logo{
+    height: 70px;
+    width: 70px;
+}
+.SigneTranslator{
+    background-color: #b8b8ff;
+    height: 400px ;
+    border-radius: 25px;
+    box-shadow: 0px 0 20px #abc4ff;
+    box-shadow: 0px -52px 68px -22px rgba(0,0,0,0.45) inset;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: 400px;
+    overflow: hidden;
+    border: none;
+    
+}
+.SigneTranslator :hover {
+    transform: scale(1.1);
+    transition: all .2s ease-in-out;
+}
+p{
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 10px;
+    color: #edf2fb;
+}
+.deaf{
+    scale: 250%;
+    padding-top: 30%;
+    
+    
+}
+.body{
+    background-color: #edf2fb;
+}
